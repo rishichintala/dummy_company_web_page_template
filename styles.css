@@ -106,3 +106,11 @@ footer ul li a:hover{
     padding-left: 0px;
     line-height: 30px;
 }
+.fa-heart{
+    color: red;
+}
+.myline{
+    width: 50%;
+    margin-left: 360px;
+    background-color: greenyellow;
+}
